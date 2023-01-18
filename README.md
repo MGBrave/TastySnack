@@ -15,7 +15,7 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-[![MgNews](https://github.com/martageraldo/landingpag/blob/main/landing%20page%20animada/pag1.jpg?raw=true)](https://martageraldo.github.io/landingpag/)
+[![Tasty Snack](https://github.com/MGBrave/TastySnack/blob/main/TastySnack/image/demo.png?raw=true)]()
 
 
 
