@@ -15,7 +15,7 @@
 
 ![vscode badge](https://img.shields.io/badge/Made%20with-VSCode-1f425f.svg)
 
-[![Tasty Snack](https://github.com/MGBrave/TastySnack/blob/main/TastySnack/image/demo.png?raw=true)]()
+[![Tasty Snack](https://github.com/MGBrave/TastySnack/blob/main/TastySnack/image/demo.png?raw=true)](https://codepen.io/martageraldo/full/BaPmvgj)
 
 
 
